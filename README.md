@@ -75,10 +75,10 @@ I care about more than just making something work. I like understanding **why it
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,postman,vite&perline=9&theme=dark">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,postman,vite&perline=9&theme=light" alt="Tech stack icons"/>
-</picture>
+</picture> -->
 
 </div>
 
@@ -154,18 +154,18 @@ I care about more than just making something work. I like understanding **why it
 </div>
 
 <div align="center">
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img src="./assets/divider-light.svg" width="640" alt=""/>
-</picture> -->
+</picture>
 </div>
 
 
 <div align="center">
- <!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img src="./assets/divider-light.svg" width="640" alt=""/>
-</picture> -->
+</picture> 
 </div>
 
 <!-- <picture>
