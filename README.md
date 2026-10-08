@@ -160,11 +160,6 @@ I care about more than just making something work. I like understanding **why it
 </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-projects-dark.svg">
-  <img src="./assets/section-projects-light.svg" width="100%" alt="Featured Projects"/>
-</picture>
-
 
 <div align="center">
 <picture>
