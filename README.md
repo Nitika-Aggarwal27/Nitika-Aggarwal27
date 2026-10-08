@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
-  <img src="./assets/portrait-light.svg" width="350" height="500" alt="Nitika"/>
+  <img src="./assets/portrait-light.svg" width="350" height="650" alt="Nitika"/>
 </picture>
 
 </td>
