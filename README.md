@@ -154,18 +154,18 @@ I care about more than just making something work. I like understanding **why it
 </div>
 
 <div align="center">
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img src="./assets/divider-light.svg" width="640" alt=""/>
-</picture>
+</picture> -->
 </div>
 
 
 <div align="center">
- <picture>
+ <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img src="./assets/divider-light.svg" width="640" alt=""/>
-</picture>
+</picture> -->
 </div>
 
 <!-- <picture>
@@ -181,9 +181,9 @@ If you're interested in **software engineering, full-stack development, building
 <a href="mailto:aggarwalnitika189@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 <a href="https://github.com/nitika-aggarwal27"><img src="https://img.shields.io/badge/GitHub-Follow-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <img src="./assets/footer-light.svg" width="100%" alt="Thanks for stopping by"/>
-</picture>
+</picture> -->
 
 </div>
