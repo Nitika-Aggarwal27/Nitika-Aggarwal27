@@ -26,10 +26,10 @@
 
 </div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
   <img src="./assets/section-about-light.svg" width="100%" alt="About Me"/>
-</picture>
+</picture> -->
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
-  <img src="./assets/portrait-light.svg" width="300" alt="Nitika"/>
+  <img src="./assets/portrait-light.svg" width="350" height="600" alt="Nitika"/>
 </picture>
 
 </td>
