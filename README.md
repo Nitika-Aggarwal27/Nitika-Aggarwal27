@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
-  <img src="./assets/portrait-light.svg" width="350" height="800" alt="Nitika"/>
+  <img src="./assets/portrait-light.svg" width="350" height="500" alt="Nitika"/>
 </picture>
 
 </td>
@@ -68,10 +68,10 @@ I care about more than just making something work. I like understanding **why it
 </picture>
 </div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg">
   <img src="./assets/section-stack-light.svg" width="100%" alt="Tech Stack"/>
-</picture>
+</picture> -->
 
 <div align="center">
 
