@@ -162,16 +162,16 @@ I care about more than just making something work. I like understanding **why it
 
 
 <div align="center">
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img src="./assets/divider-light.svg" width="640" alt=""/>
 </picture>
 </div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-connect-dark.svg">
   <img src="./assets/section-connect-light.svg" width="100%" alt="Let's Connect"/>
-</picture>
+</picture> -->
 
 <div align="center">
 
