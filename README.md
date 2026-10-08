@@ -107,7 +107,7 @@ I care about more than just making something work. I like understanding **why it
 <td width="50%" valign="top">
 
 **🚀 Currently Exploring**<br/>
-`Python` `DSA` `AI / LLM apps` `Backend architecture` `Clean engineering practices`
+`Python` `DSA` `Backend architecture` `Clean engineering practices`
 
 </td>
 </tr>
@@ -165,32 +165,6 @@ I care about more than just making something work. I like understanding **why it
   <img src="./assets/section-projects-light.svg" width="100%" alt="Featured Projects"/>
 </picture>
 
-<!-- Replace each placeholder with your real project name, one-line description, stack and links. -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ♡ Project One
-One-line description of what it does and the problem it solves.
-
-`React` `Node.js` `MongoDB`
-
-[Live Demo](#) · [Source Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ♡ Project Two
-One-line description of what it does and the problem it solves.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-[Live Demo](#) · [Source Code](#)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <picture>
