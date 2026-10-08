@@ -120,17 +120,17 @@ I care about more than just making something work. I like understanding **why it
 </picture>
 </div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-analytics-dark.svg">
   <img src="./assets/section-analytics-light.svg" width="100%" alt="GitHub Analytics"/>
-</picture>
+</picture> -->
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nitika-aggarwal27&show_icons=true&include_all_commits=true&count_private=true&bg_color=1b0c36&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=4c1d95&border_radius=16">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=nitika-aggarwal27&show_icons=true&include_all_commits=true&count_private=true&bg_color=f5f3ff&title_color=6d28d9&text_color=4c1d95&icon_color=7c3aed&border_color=ddd6fe&border_radius=16" alt="GitHub stats"/>
-</picture>
+</picture> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nitika-aggarwal27&layout=compact&langs_count=8&bg_color=1b0c36&title_color=c4b5fd&text_color=e9d5ff&border_color=4c1d95&border_radius=16">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitika-aggarwal27&layout=compact&langs_count=8&bg_color=f5f3ff&title_color=6d28d9&text_color=4c1d95&border_color=ddd6fe&border_radius=16" alt="Top languages"/>
@@ -141,7 +141,7 @@ I care about more than just making something work. I like understanding **why it
   <img src="https://streak-stats.demolab.com?user=nitika-aggarwal27&background=F5F3FF&border=DDD6FE&borderRadius=16&ring=7C3AED&fire=7C3AED&currStreakLabel=6D28D9&sideLabels=6D28D9&currStreakNum=4C1D95&sideNums=4C1D95&dates=7C3AED" alt="Contribution streak"/>
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nitika-aggarwal27&bg_color=1b0c36&color=c4b5fd&line=a78bfa&point=ffffff&area=false&hide_border=true&radius=16">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitika-aggarwal27&bg_color=f5f3ff&color=6d28d9&line=7c3aed&point=4c1d95&area=false&hide_border=true&radius=16" alt="Contribution activity"/>
 </picture>
@@ -149,7 +149,7 @@ I care about more than just making something work. I like understanding **why it
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitika-aggarwal27/nitika-aggarwal27/output/github-snake-dark.svg">
   <img width="95%" src="https://raw.githubusercontent.com/nitika-aggarwal27/nitika-aggarwal27/output/github-snake.svg" alt="Contribution snake"/>
-</picture>
+</picture> -->
 
 </div>
 
