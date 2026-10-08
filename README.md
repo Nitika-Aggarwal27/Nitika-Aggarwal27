@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
-  <img src="./assets/portrait-light.svg" width="350" height="600" alt="Nitika"/>
+  <img src="./assets/portrait-light.svg" width="350" height="800" alt="Nitika"/>
 </picture>
 
 </td>
@@ -52,7 +52,7 @@ I care about more than just making something work. I like understanding **why it
 ♡ Ask me about **Full Stack Development, React, Node.js and project building**<br/>
 ♡ Fun fact: *most of my ideas start with "What if I build this?"*
 
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/status-dark.svg">
   <img src="./assets/status-light.svg" width="100%" alt="Currently building and learning"/>
 </picture>
